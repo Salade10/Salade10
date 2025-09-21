@@ -3,7 +3,7 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I have also managed to access my schools internal servers and there was this one time where our music teacher kept giving us homework so i hacked his account and changed his password so he couldn't log on. 
 
-💻 I’ve explored coding through multiple paths:
+# 💻 I’ve explored coding through multiple paths:
 
 • Computational Biology – using Python to work with data and explore biological systems
 
@@ -11,7 +11,8 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
 
 • Languages – studying French, completing GCSE early and continuing at A-level
 
-• Competitions –
+# Competitions:
+
 • UK CanSat Competition where I contributed to design and testing under real-world constraints coding a satellite that collected altitude and temperature data then streamed it back down to a ground station
 
 • Big Ideas Competition where I worked on innovative solutions for real-world challenges
