@@ -1,4 +1,4 @@
-# 💫 About Me:
+im# 💫 About Me:
 I’m Salad10 (Salad), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I have also managed to access my schools internal servers and there was this one time where our music teacher kept giving us homework so i hacked his account and changed his password so he couldn't log on. 
@@ -32,7 +32,7 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
   # I'll code for You 
   Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
 
-  payments accepted via cryptocurrency only :)
+  payments accepted via cryptocurrency or promotion depending on the project size and complexity :)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
