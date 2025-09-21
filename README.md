@@ -9,7 +9,7 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
 
 • Cybersecurity – learning through hands-on vulnerability discovery and secure coding practices
 
-• Languages – studying French, completing GCSE early and continuing at A-level
+• Languages – studying French has helped me greatly and has allowed me to communicate with coders and developers from other countries
 
 # Competitions:
 
