@@ -35,8 +35,12 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
 ---
 [![](https://visitcount.itsvg.in/api?id=Salade10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Salase10) 
 
+  ## I'll code for You 
+  Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
+
+  payments accepted via cryptocurrency only :)
+
+  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
