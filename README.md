@@ -29,6 +29,11 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
 ![](https://nirzak-streak-stats.vercel.app/?user=Salade10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salade10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+  # I'll code for You 
+  Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
+
+  payments accepted via cryptocurrency only :)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -36,10 +41,7 @@ I’m Salad10 (Salad), a student developer with a passion for Python programming
 [![](https://visitcount.itsvg.in/api?id=Salade10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-  ## I'll code for You 
-  Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
 
-  payments accepted via cryptocurrency only :)
 
   
   
