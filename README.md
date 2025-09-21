@@ -1,5 +1,18 @@
 # 💫 About Me:
-I am a student in Cybersecurity and AI.
+I’m Salad10 (Salad), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
+
+🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming.
+
+💻 I’ve explored coding through multiple paths:
+• Computational Biology – using Python to work with data and explore biological systems
+• Cybersecurity – learning through hands-on vulnerability discovery and secure coding practices
+• Languages – studying French, completing GCSE early and continuing at A-level
+• Competitions –
+• UK CanSat Competition where I contributed to design and testing under real-world constraints
+• Big Ideas Competition where I worked on innovative solutions for real-world challenges
+• Coding Competitions that sharpened my algorithmic problem-solving under pressure
+
+🔬 I’m especially motivated by challenges that mix science, code, and creativity. My long-term aim is to bring together biology, AI, and security to make tools and research that genuinely matter.
 
 
 # 💻 Tech Stack:
