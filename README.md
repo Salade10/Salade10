@@ -1,4 +1,4 @@
-im# 💫 About Me:
+# 💫 About Me:
 I’m Salade10 (Salade), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I have also managed to access my schools internal servers and there was this one time where our music teacher kept giving us homework so i hacked his account and changed his password so he couldn't log on. 
