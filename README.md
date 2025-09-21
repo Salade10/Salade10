@@ -27,7 +27,7 @@ I’m Salade10 (Salade), a student developer with a passion for Python programmi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Salade10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Salade10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salade10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salade10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   # I'll code for You 
   Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
