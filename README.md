@@ -5,21 +5,21 @@ I’m Salade10 (Salade), a student developer with a passion for Python programmi
 
 # 💻 I’ve explored coding through multiple paths:
 
-• Computational Biology – using Python to work with data and explore biological systems
+• Computational Biology – I understand the underlying principles of biology and have coded many biological models
 
 • Cybersecurity – I have coded keyloggers, wordlist generators and other types of malware. I code python and understand networks and cloud systems. I have had real experience accessing and pentesting accounts and systems.
 
-• Languages – studying French has helped me greatly and has allowed me to communicate with coders and developers from other countries
+• Languages – studying French has helped me greatly and has allowed me to communicate with programmers and developers from other countries.
 
 # Competitions:
 
 • UK CanSat Competition where I contributed to design and testing under real-world constraints coding a satellite that collected altitude and temperature data then streamed it back down to a ground station
 
-• Big Ideas Competition where I worked on innovative solutions for real-world challenges
+• Big Ideas: I had to design a product that would help the planet
 
 • Coding Competitions that sharpened my algorithmic problem-solving under pressure
 
-🔬 I’m especially motivated by challenges that mix science, code, and creativity. My long-term aim is to bring together biology, AI, and security to make tools and research that genuinely matter.
+🔬 I’m especially motivated by challenges that mix science, code, and problem solving. My Goal is to leave an imprint on humanity and give it something new, interesting and a way forward.
 
 
 # 💻 Tech Stack:
