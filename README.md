@@ -15,7 +15,7 @@ I’m Salade10 (Salade), a student developer with a passion for Python programmi
 
 • UK CanSat Competition where I contributed to design and testing under real-world constraints coding a satellite that collected altitude and temperature data then streamed it back down to a ground station
 
-• Big Ideas: I had to design a product that would help the planet
+• Big Ideas: I had to design a product that would help the planet https://github.com/Salade10/The-rotters-big-idea-competition
 
 • Coding Competitions that sharpened my algorithmic problem-solving under pressure
 
