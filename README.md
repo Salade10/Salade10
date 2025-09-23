@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m Salade10 (Salade), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
-🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I have also managed to access my schools internal servers and there was this one time where our music teacher kept giving us homework so i hacked his account and changed his password so he couldn't log on. 
+🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I also have hands in experience with penetration testing and am always keen to learn and recieve feedback. 
 
 # 💻 I’ve explored coding through multiple paths:
 
@@ -15,7 +15,7 @@ I’m Salade10 (Salade), a student developer with a passion for Python programmi
 
 • UK CanSat Competition where I contributed to design and testing under real-world constraints coding a satellite that collected altitude and temperature data then streamed it back down to a ground station
 
-• Big Ideas: I had to design a product that would help the planet. I decided to design a food waste compacter that supermarkets, businesses and schools could use to
+• Big Ideas: I had to design a product that would help the planet. I decided to design a food waste compacter that supermarkets, businesses and schools could use to reduce their food waste
 
 link to the ppt:https://github.com/Salade10/The-rotters-big-idea-competition
 
