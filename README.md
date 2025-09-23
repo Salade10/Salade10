@@ -7,7 +7,7 @@ I’m Salade10 (Salade), a student developer with a passion for Python programmi
 
 • Computational Biology – using Python to work with data and explore biological systems
 
-• Cybersecurity – learning through hands-on vulnerability discovery and secure coding practices
+• Cybersecurity – I have coded keyloggers, wordlist generators and other types of malware. I code python and understand networks and cloud systems. I have had real experience accessing and pentesting accounts and systems.
 
 • Languages – studying French has helped me greatly and has allowed me to communicate with coders and developers from other countries
 
