@@ -36,6 +36,11 @@ link to the ppt:https://github.com/Salade10/The-rotters-big-idea-competition
 
   payments accepted via cryptocurrency or promotion depending on the project size and complexity :)
 
+OR
+
+check out my fiverr for gig opportunities 
+https://fiverr.com/salade__
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
