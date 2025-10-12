@@ -1,4 +1,4 @@
-uio# 💫 About Me:
+# 💫 About Me:
 I’m Salade10 (Salade), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I also have hands in experience with penetration testing and am always keen to learn and recieve feedback. 
