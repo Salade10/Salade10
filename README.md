@@ -39,7 +39,7 @@ link to the ppt:https://github.com/Salade10/The-rotters-big-idea-competition
 OR
 
 check out my fiverr for gig opportunities 
-https://www.fiverr.com/salade__
+<https://www.fiverr.com/salade__>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
