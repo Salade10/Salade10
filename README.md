@@ -1,4 +1,4 @@
-# 💫 About Me:
+uio# 💫 About Me:
 I’m Salade10 (Salade), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I also have hands in experience with penetration testing and am always keen to learn and recieve feedback. 
@@ -39,7 +39,7 @@ link to the ppt:https://github.com/Salade10/The-rotters-big-idea-competition
 OR
 
 check out my fiverr for gig opportunities 
-https://fiverr.com/salade__
+https://www.fiverr.com/salade__
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
