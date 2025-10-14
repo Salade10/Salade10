@@ -5,6 +5,10 @@ I’m Salade10 (Noah), a student developer with a passion for Python programming
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I also have hands in experience with penetration testing and am always keen to learn and recieve feedback. 
 
+# Grades
+📚 I am currently studying computer science at school alongside other subjects.
+
+
 # 💻 I’ve explored coding through multiple paths:
 
 • Computational Biology – I understand the underlying principles of biology and have coded many biological models. Many of my models have used python libraries such as matplotlib to plot the data as the simulation progresses.
