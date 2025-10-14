@@ -8,6 +8,10 @@ I’m Salade10 (Noah), a student developer with a passion for Python programming
 # Grades
 📚 I am currently studying computer science at school alongside other subjects.
 
+- French GCSE: 5
+- Geography GCSE: 6
+- Computer science GCSE: 7
+- engineering GCSE: 6
 
 # 💻 I’ve explored coding through multiple paths:
 
