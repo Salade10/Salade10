@@ -21,6 +21,8 @@ link to the ppt:https://github.com/Salade10/The-rotters-big-idea-competition
 
 • Ive participated in coding competitions and WAICY. I attended a webinar on robotics development and AI and after participated in the competition of designing an AI to help humans. I came up wioth a bot called patrick which would advise low income countries where and how to invest their money.
 
+Learn more about patrick here: https://github.com/Salade10/Low-income-country-advisor
+
 🔬 I’m especially motivated by challenges that mix science, code, and problem solving. My Goal is to leave an imprint on humanity and give it something new, interesting and a way forward.
 
 
@@ -31,10 +33,10 @@ link to the ppt:https://github.com/Salade10/The-rotters-big-idea-competition
 ![](https://nirzak-streak-stats.vercel.app/?user=Salade10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salade10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  # I'll code for You 
-  Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
+# I'll code for You 
+Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
 
-  payments accepted via cryptocurrency or promotion depending on the project size and complexity :)
+payments accepted via cryptocurrency or promotion depending on the project size and complexity :)
 
 OR
 
