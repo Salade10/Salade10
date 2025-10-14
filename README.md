@@ -1,3 +1,5 @@
+Note: To view myprojects please click here: https://https://github.com/Salade10?tab=repositories
+
 # 💫 About Me:
 I’m Salade10 (Noah), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
