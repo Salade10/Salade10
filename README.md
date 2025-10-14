@@ -9,7 +9,7 @@ I’m Salade10 (Noah), a student developer with a passion for Python programming
 
 • Computational Biology – I understand the underlying principles of biology and have coded many biological models. Many of my models have used python libraries such as matplotlib to plot the data as the simulation progresses.
 
-• Cybersecurity – I have coded keyloggers, wordlist generators and other types of malware, this has helped me learn how they work and therefore allows me to help protect against them better. I code python and understand networks and cloud systems. I have had real experience accessing and pentesting accounts and systems.
+• Cybersecurity – I have coded keyloggers, wordlist generators and other types of malware, this has helped me learn how they work and therefore allows me to help protect against them better. I code using python and am able to utilise libraries such as socket, matplotlib, argsparse etc. I have had real experience accessing and pentesting accounts and systems and understand the underlying principles of networks and servers.
 
 • Languages – studying French has helped me greatly and has allowed me to communicate with programmers and developers from other countries. 
 
