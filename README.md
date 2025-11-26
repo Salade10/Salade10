@@ -1,7 +1,7 @@
 **Note: To view my projects please click here: <https://github.com/Salade10?tab=repositories>**
 
 # 💫 About Me:
-I’m Salade10 (Noah), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
+I’m Noah (Salade10), a student developer with a passion for Python programming, computational biology, cybersecurity, and AI. I love solving problems and building projects that push me to think in new ways.
 
 🌱 My journey into coding started when I built a chatbot called Abstract. It wasn’t perfect, but it taught me a huge amount about how AI and chatbots work, and it’s what first sparked my love for programming. I also have hands in experience with penetration testing and am always keen to learn and recieve feedback. 
 
@@ -15,7 +15,7 @@ I’m Salade10 (Noah), a student developer with a passion for Python programming
 
 # 💻 I’ve explored coding through multiple paths:
 
-• Computational Biology – I understand the underlying principles of biology and have coded many biological models. Many of my models have used python libraries such as matplotlib to plot the data as the simulation progresses.
+• Computational Biology – I coded a simple simulation of the innate immune system using python
 
 • Cybersecurity – I have coded keyloggers, wordlist generators and other types of malware, this has helped me learn how they work and therefore allows me to help protect against them better. I code using python and am able to utilise libraries such as socket, matplotlib, argsparse etc. I have had real experience accessing and pentesting accounts and systems and understand the underlying principles of networks and servers.
 
