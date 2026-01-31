@@ -13,8 +13,8 @@ I'm motivated to study abroad because I want to see the world and I think France
 # Projects
 https://github.com/Salade10/Projects
 # See about Computer Science
-
+https://github.com/Salade10/ComputerScience
 # See about Business/Finance
-
+https://github.com/Salade10/BusinessAndFinance
 # Extra-curriculars
-
+https://github.com/Salade10/ExtraCurriculars
