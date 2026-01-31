@@ -1,5 +1,9 @@
 # About Me
-My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in Biology, Pyschology, Computer Science and French.
+My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in 
+- Biology
+- Pyschology 
+- Computer Science
+- French
 
 
 
