@@ -10,10 +10,11 @@ Im good at problem-solving, Coding and teamwork.
 
 I'm motivated to study abroad because I want to see the world and I think France is a beautiful country with a lot to see and explore.
 
+# Projects
+
 # See about Computer Science
 
 # See about Business/Finance
 
 # Extra-curriculars
 
-# Projects
