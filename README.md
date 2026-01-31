@@ -43,19 +43,6 @@ Learn more about patrick here: https://github.com/Salade10/Low-income-country-ad
 ![](https://nirzak-streak-stats.vercel.app/?user=Salade10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salade10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# I'll code for You 
-Dm me on discord and tell me about what you want me to code and I'll help you bring it to life.
-
-payments accepted via cryptocurrency or promotion depending on the project size and complexity :)
-
-OR
-
-check out my fiverr for gig opportunities 
-<https://www.fiverr.com/salade__>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Salade10&icon=0&color=0)](https://visitcount.itsvg.in)
 
