@@ -1,9 +1,7 @@
-1. About Me
-A short, confident introduction.
+# About Me
+My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in Biology, Pyschology, Computer Science and French.
 
-Name
 
-Academic background (e.g., “A‑level student focusing on CS, Maths, and Economics”)
 
 Career interests (e.g., software engineering, fintech, data analytics, entrepreneurship)
 
