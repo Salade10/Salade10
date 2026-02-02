@@ -11,16 +11,6 @@ Im good at problem-solving, Coding and teamwork.
 
 I'm motivated to study abroad because I want to experience life in another country and become more independant.
 
-# Projects
-https://github.com/Salade10/Projects
-# See about Computer Science
-https://github.com/Salade10/ComputerScience
-# See about Business/Finance
-https://github.com/Salade10/BusinessAndFinance
-# Extra-curriculars
-https://github.com/Salade10/ExtraCurriculars
-
-# French
 ## A propos de moi
 Bonjour, je m'appelle Noah Lockley et je suis etudiant a Settle College. Actuellement, j'etudie mes A-levels en:
 - Biologie
@@ -31,11 +21,11 @@ Bonjour, je m'appelle Noah Lockley et je suis etudiant a Settle College. Actuell
 J'aimerais poursuivre des etudes en commerce ou en finance dans le sud de la France avec un but a long-terme de commencer ma propre enterprise dans l'immobilier de luxe.
 je sais bien faire du codage et je peux traviller dans un equipe.
 
-# Voyez mes projets
+# Projects/Mes projets
 https://github.com/Salade10/Projects
-# Mon profil en informatique
+# See about Computer Science/Mon profil en informatique
 https://github.com/Salade10/ComputerScience
-# Mon profil en commerce et finance
+# See about Business&FinanceMon profil en commerce et finance
 https://github.com/Salade10/BusinessAndFinance
-# Mes activités extrascolaires
+# Extra-curriculars/Mes activités extrascolaires
 https://github.com/Salade10/ExtraCurriculars
