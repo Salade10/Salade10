@@ -5,10 +5,10 @@ My names Noah Lockley and im a student at settle college. Im currently doing my 
 - Computer Science
 - French
 
-I would like to study Business/Finance at university in the south of France and would then like to further go on to start my own financial consulting firm.
+I would like to study Business/Finance at university in the south of France with a long term goal of starting my own financial consulting firm in luxury real estate.
 Im good at problem-solving, Coding and teamwork.
 
-I'm motivated to study abroad because I want to see the world and I think France is a beautiful country with a lot to see and explore.
+I'm motivated to study abroad because I want to experience life in another country and become more independant.
 
 # Projects
 https://github.com/Salade10/Projects
