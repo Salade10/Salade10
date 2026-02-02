@@ -31,11 +31,11 @@ Bonjour, je m'appelle Noah Lockley et je suis etudiant a Settle College. Actuell
 J'aimerais poursuivre des etudes en commerce ou en finance dans le sud de la France avec un but a long-terme de commencer ma propre enterprise dans l'immobilier de luxe.
 je sais bien faire du codage et je peux traviller dans un equipe.
 
-# Mes projets
+# Voyez mes projets
 https://github.com/Salade10/Projects
-# Vois d'informatique
+# Mon profil en informatique
 https://github.com/Salade10/ComputerScience
-# vois de commerce et finance
+# Mon profil en commerce et finance
 https://github.com/Salade10/BusinessAndFinance
-# mes activités extrascolaires
+# Mes activités extrascolaires
 https://github.com/Salade10/ExtraCurriculars
