@@ -1,4 +1,5 @@
-# About Me 
+# English
+## About Me 
 My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in:
 - Biology
 - Pyschology 
@@ -19,7 +20,8 @@ https://github.com/Salade10/BusinessAndFinance
 # Extra-curriculars
 https://github.com/Salade10/ExtraCurriculars
 
-# A propos de moi
+# French
+## A propos de moi
 Bonjour, je m'appelle Noah Lockley et je suis etudiant a Settle College. Actuellement, j'etudie mes A-levels en:
 - Biologie
 - psychologie
