@@ -21,11 +21,11 @@ Im good at problem-solving, Coding and teamwork.
 I'm motivated to study abroad because I want to experience life in another country and become more independant.
 
 
-# Projects/Mes projets
+### Projects/Mes projets
 https://github.com/Salade10/Projects
-# See about Computer Science/Mon profil en informatique
+### See about Computer Science/Mon profil en informatique
 https://github.com/Salade10/ComputerScience
-# See about Business&Finance/Mon profil en commerce et finance
+### See about Business&Finance/Mon profil en commerce et finance
 https://github.com/Salade10/BusinessAndFinance
-# Extra-curriculars/Mes activités extrascolaires
+### Extra-curriculars/Mes activités extrascolaires
 https://github.com/Salade10/ExtraCurriculars
