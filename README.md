@@ -16,7 +16,7 @@ je sais bien faire du codage et je peux traviller dans un équipe.
 ## About Me 
 My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in:
 - Biology
-- Pyschology 
+- Psychology 
 - Computer Science
 - French
 
