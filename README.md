@@ -8,6 +8,11 @@ Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actue
 J'aimerais poursuivre des études en commerce ou en finance dans le sud de la France avec un but à long-terme de commencer ma propre enterprise dans l'immobilier de luxe.
 je sais bien faire du codage et je peux traviller dans un équipe. 
 
+### “Je travaille actuellement sur
+- DELF B2  
+- J'ameliore actuellement mes competences en python
+
+
 ## About Me 
 My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in:
 - Biology
@@ -19,6 +24,11 @@ I would like to study Business/Finance at university in the south of France with
 Im good at problem-solving, Coding and teamwork.
 
 I'm motivated to study abroad because I want to experience life in another country and become more independant.
+
+### What im working on
+- DELF B2 
+- Improving my Python skills
+
 
 
 ### Projects/Mes projets
