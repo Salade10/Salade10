@@ -10,7 +10,7 @@ je sais bien faire du codage et je peux traviller dans un équipe.
 
 ### Je travaille actuellement sur
 - DELF B2  
-- J'ameliore actuellement mes competences en python
+- J'améliore actuellement mes competences en python
 
 
 ## About Me 
