@@ -36,6 +36,6 @@ https://github.com/Salade10/Projects
 ### See about Computer Science/Mon profil en informatique
 https://github.com/Salade10/ComputerScience
 ### See about Business&Finance/Mon profil en commerce et finance
-https://github.com/Salade10/BusinessAndFinance
+https://github.com/Salade10/Projects/tree/main/BusinessAndFinance
 ### Extra-curriculars/Mes activités extrascolaires
 https://github.com/Salade10/ExtraCurriculars
