@@ -6,7 +6,7 @@ Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actue
 - Français
 
 J'aimerais poursuivre des études en commerce ou en finance dans le sud de la France avec un but à long-terme de commencer ma propre enterprise dans l'immobilier de luxe.
-je sais bien faire du codage et je peux traviller dans un équipe. 
+Je sais bien faire du codage et Je peux traviller dans un équipe. 
 
 ### Je travaille actuellement sur
 - DELF B2  
