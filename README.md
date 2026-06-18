@@ -1,11 +1,10 @@
 ## À propos de moi
 Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actuellement, j'étudie mes A-levels en:
-- Biologie
+- commerce
 - psychologie
-- Informatique
 - Français
 
-J'aimerais poursuivre des études en commerce ou en finance dans le sud de la France avec un but à long-terme de commencer ma propre enterprise dans l'immobilier de luxe.
+J'aimerais poursuivre des études en commerce ou en finance dans le sud de la France avec un but à long-terme de commencer ma propre enterprise dans le yachting de luxe.
 Je sais bien faire du codage et Je peux traviller dans un équipe. 
 
 ### Je travaille actuellement sur
@@ -15,12 +14,11 @@ Je sais bien faire du codage et Je peux traviller dans un équipe.
 
 ## About Me 
 My names Noah Lockley and im a student at settle college. Im currently doing my A-levels in:
-- Biology
+- business
 - Psychology 
-- Computer Science
 - French
 
-I would like to study Business/Finance at university in the south of France with a long term goal of starting my own financial consulting firm in luxury real estate.
+I would like to study Business/Finance at university in the south of France with a long term goal of starting my own financial consulting firm in luxury yacht brokerage.
 Im good at problem-solving, Coding and teamwork.
 
 I'm motivated to study abroad because I want to experience life in another country and become more independant.
