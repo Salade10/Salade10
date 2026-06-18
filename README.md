@@ -1,7 +1,7 @@
 # Portfolio - Noah Lockley
 
 ### À propos de moi
-Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actuellement, j'étudie mes A-levels en:
+Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. J'étudie actuellement mes A-levels en:
 - commerce
 - psychologie
 - Français
@@ -13,10 +13,10 @@ Je suis motivé, sérieux et passionné par les environnements internationaux.
 - DELF B2  
 - russe
 
-[click here for the english version]()
+[click here for the english version](https://github.com/Salade10/englsih_readme)
 
 ### Projects/Mes projets
-- [Mes projets](https://github.com/Salade10/Projects)
+[Mes projets](https://github.com/Salade10/Projects)
 ### CV, lettre de motivation/CV 
 https://github.com/Salade10/ComputerScience
 ### See about Business&Finance/Mon profil en commerce et finance
