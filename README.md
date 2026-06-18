@@ -4,12 +4,12 @@ Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actue
 - psychologie
 - Français
 
-J'aimerais poursuivre des études en commerce ou en finance dans le sud de la France avec un but à long-terme de commencer ma propre enterprise dans le yachting de luxe.
-Je sais bien faire du codage et Je peux traviller dans un équipe. 
+J'aimerais poursuivre des études en commerce ou en finance dans le sud de la France avec un objectif à long terme: travailler dans le yachting de luxe et plus tard créer ma propre entreprise dans ce secteur.
+Je suis motivé, sérieux et passionné par les environnements internationaux.
 
-### Je travaille actuellement sur
+### ce sur quoi je travaille
 - DELF B2  
-- J'améliore actuellement mes competences en python
+- russe
 
 
 ## About Me 
@@ -25,7 +25,7 @@ I'm motivated to study abroad because I want to experience life in another count
 
 ### What im working on
 - DELF B2 
-- Improving my Python skills
+- russian
 
 
 
