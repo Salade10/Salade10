@@ -18,7 +18,7 @@ My names Noah Lockley and im a student at settle college. Im currently doing my 
 - Psychology 
 - French
 
-I would like to study Business/Finance at university in the south of France with a long term goal of starting my own financial consulting firm in luxury yacht brokerage.
+I would like to study Business/Finance at university in the south of France with a long term goal of starting my own luxury yacht brokerage firm.
 Im good at problem-solving, Coding and teamwork.
 
 I'm motivated to study abroad because I want to experience life in another country and become more independant.
