@@ -15,11 +15,9 @@ Je suis motivé, sérieux et passionné par les environnements internationaux.
 
 [click here for the english version](https://github.com/Salade10/englsih_readme)
 
-### Projects/Mes projets
+## Mes projets/My projects
 [Mes projets](https://github.com/Salade10/Projects)
-### CV, lettre de motivation/CV 
-https://github.com/Salade10/ComputerScience
-### See about Business&Finance/Mon profil en commerce et finance
-https://github.com/Salade10/BusinessAndFinance
-### Extra-curriculars/Mes activités extrascolaires
-https://github.com/Salade10/ExtraCurriculars
+### Mon profil en commerce et finance/Business & Finance
+[commerce & Finance](https://github.com/Salade10/BusinessAndFinance)
+### Mes activités extrascolaires/Extra curriculars
+[Mes activités extrascolaires](https://github.com/Salade10/ExtraCurriculars)
