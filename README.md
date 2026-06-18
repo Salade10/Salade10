@@ -1,6 +1,6 @@
 # Portfolio - Noah Lockley
 
-## À propos de moi
+### À propos de moi
 Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actuellement, j'étudie mes A-levels en:
 - commerce
 - psychologie
