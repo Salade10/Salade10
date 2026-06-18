@@ -10,8 +10,9 @@ J'aimerais poursuivre des études en commerce ou en finance dans le sud de la Fr
 Je suis motivé, sérieux et passionné par les environnements internationaux.
 
 ### ce sur quoi je travaille
-- DELF B2  
-- russe
+- l'examen DELF B2  
+- russe (débutant)
+- comprendre les bases du commerce international et du yachting
 
 [click here for the english version](https://github.com/Salade10/englsih_readme)
 
