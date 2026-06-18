@@ -1,3 +1,13 @@
+### Projects/Mes projets
+https://github.com/Salade10/Projects
+### See about Computer Science/Mon profil en informatique
+https://github.com/Salade10/ComputerScience
+### See about Business&Finance/Mon profil en commerce et finance
+https://github.com/Salade10/BusinessAndFinance
+### Extra-curriculars/Mes activités extrascolaires
+https://github.com/Salade10/ExtraCurriculars
+
+
 ## À propos de moi
 Bonjour, je m'appelle Noah Lockley et je suis étudiant à Settle College. Actuellement, j'étudie mes A-levels en:
 - commerce
@@ -26,14 +36,3 @@ I'm motivated to study abroad because I want to experience life in another count
 ### What im working on
 - DELF B2 
 - russian
-
-
-
-### Projects/Mes projets
-https://github.com/Salade10/Projects
-### See about Computer Science/Mon profil en informatique
-https://github.com/Salade10/ComputerScience
-### See about Business&Finance/Mon profil en commerce et finance
-https://github.com/Salade10/BusinessAndFinance
-### Extra-curriculars/Mes activités extrascolaires
-https://github.com/Salade10/ExtraCurriculars
